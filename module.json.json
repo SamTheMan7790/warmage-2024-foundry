@@ -1,0 +1,28 @@
+{
+  "id": "warmage2024-starter",
+  "title": "Warmage 2024 Starter",
+  "description": "Source pack starter for a 2024 Warmage implementation for Foundry VTT dnd5e.",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13.351"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "5.2.5",
+          "verified": "5.2.5"
+        }
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "OpenAI Assistant"
+    }
+  ],
+  "packs": []
+}
