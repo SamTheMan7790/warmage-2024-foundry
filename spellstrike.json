@@ -1,0 +1,17 @@
+{
+  "name": "Spellstrike",
+  "type": "feat",
+  "img": "icons/magic/symbols/question-stone-yellow.webp",
+  "system": {
+    "identifier": "warmage2024.trick.spellstrike",
+    "description": {
+      "value": "<p>Starter reference entry for Spellstrike. Replace with your final rules text or imported compendium content.</p>"
+    },
+    "type": {
+      "value": "class"
+    },
+    "source": {
+      "custom": "Warmage 2024"
+    }
+  }
+}

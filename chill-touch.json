@@ -1,0 +1,15 @@
+{
+  "name": "Chill Touch",
+  "type": "spell",
+  "img": "icons/magic/unholy/projectile-fireball-smoke-blue.webp",
+  "system": {
+    "identifier": "warmage2024.spell.chill_touch",
+    "description": {
+      "value": "<p>Starter reference spell entry for Chill Touch. Replace with your final imported spell content if you want full automation.</p>"
+    },
+    "source": {
+      "custom": "Warmage 2024"
+    },
+    "level": 0
+  }
+}

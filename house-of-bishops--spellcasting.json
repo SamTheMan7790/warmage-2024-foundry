@@ -1,0 +1,17 @@
+{
+  "name": "House of Bishops - Spellcasting",
+  "type": "feat",
+  "img": "icons/magic/control/control-influence-crown-blue.webp",
+  "system": {
+    "identifier": "warmage2024.subclass_feature.house_of_bishops__spellcasting",
+    "description": {
+      "value": "<p>You gain prepared Wizard spellcasting using the Bishop table. At level 3 you prepare three level 1 wizard spells. Prepared spells and slots increase by subclass level table.</p>"
+    },
+    "type": {
+      "value": "class"
+    },
+    "source": {
+      "custom": "Warmage 2024"
+    }
+  }
+}

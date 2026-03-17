@@ -1,0 +1,17 @@
+{
+  "name": "Coalition Arcanist - Blaster Gauntlet",
+  "type": "feat",
+  "img": "icons/magic/control/control-influence-crown-blue.webp",
+  "system": {
+    "identifier": "warmage2024.subclass_feature.coalition_arcanist__blaster_gauntlet",
+    "description": {
+      "value": "<p>When you cast a Warmage cantrip requiring a ranged spell attack through your blaster gauntlet, you may overheat it to raise its damage die step by one, up to d12s, but you cannot cast that cantrip again until the end of your next turn.</p>"
+    },
+    "type": {
+      "value": "class"
+    },
+    "source": {
+      "custom": "Warmage 2024"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Extended Range",
+  "type": "feat",
+  "img": "icons/magic/symbols/question-stone-yellow.webp",
+  "system": {
+    "identifier": "warmage2024.trick.extended_range",
+    "description": {
+      "value": "<p>Starter reference entry for Extended Range. Replace with your final rules text or imported compendium content.</p>"
+    },
+    "type": {
+      "value": "class"
+    },
+    "source": {
+      "custom": "Warmage 2024"
+    }
+  }
+}

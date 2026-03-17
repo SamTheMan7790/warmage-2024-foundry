@@ -1,0 +1,17 @@
+{
+  "name": "Adventurer",
+  "type": "feat",
+  "img": "icons/magic/symbols/star-blue.webp",
+  "system": {
+    "identifier": "warmage2024.initiation.adventurer",
+    "description": {
+      "value": "<p>You learn Mage Hand and Ray of Frost and gain proficiency in Perception.</p><p><strong>Cantrips:</strong> Mage Hand, Ray of Frost<br><strong>Skill:</strong> Perception</p>"
+    },
+    "type": {
+      "value": "class"
+    },
+    "source": {
+      "custom": "Warmage 2024"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Tower Apprentice",
+  "type": "feat",
+  "img": "icons/magic/symbols/star-blue.webp",
+  "system": {
+    "identifier": "warmage2024.initiation.tower_apprentice",
+    "description": {
+      "value": "<p>You learn Prestidigitation and Shocking Grasp and gain proficiency in Arcana.</p><p><strong>Cantrips:</strong> Prestidigitation, Shocking Grasp<br><strong>Skill:</strong> Arcana</p>"
+    },
+    "type": {
+      "value": "class"
+    },
+    "source": {
+      "custom": "Warmage 2024"
+    }
+  }
+}

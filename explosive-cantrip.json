@@ -1,0 +1,17 @@
+{
+  "name": "Explosive Cantrip",
+  "type": "feat",
+  "img": "icons/magic/symbols/question-stone-yellow.webp",
+  "system": {
+    "identifier": "warmage2024.trick.explosive_cantrip",
+    "description": {
+      "value": "<p>Starter reference entry for Explosive Cantrip. Replace with your final rules text or imported compendium content.</p>"
+    },
+    "type": {
+      "value": "class"
+    },
+    "source": {
+      "custom": "Warmage 2024"
+    }
+  }
+}

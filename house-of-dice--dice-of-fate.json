@@ -1,0 +1,17 @@
+{
+  "name": "House of Dice - Dice of Fate",
+  "type": "feat",
+  "img": "icons/magic/control/control-influence-crown-blue.webp",
+  "system": {
+    "identifier": "warmage2024.subclass_feature.house_of_dice__dice_of_fate",
+    "description": {
+      "value": "<p>You gain four d6 Dice of Fate. When you fail a d20 test or make a damage roll, you can add one expended die. The GM can spend your expended dice for NPCs or monsters until they cycle back.</p>"
+    },
+    "type": {
+      "value": "class"
+    },
+    "source": {
+      "custom": "Warmage 2024"
+    }
+  }
+}

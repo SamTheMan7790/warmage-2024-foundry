@@ -1,0 +1,15 @@
+{
+  "name": "Produce Flame",
+  "type": "spell",
+  "img": "icons/magic/unholy/projectile-fireball-smoke-blue.webp",
+  "system": {
+    "identifier": "warmage2024.spell.produce_flame",
+    "description": {
+      "value": "<p>Starter reference spell entry for Produce Flame. Replace with your final imported spell content if you want full automation.</p>"
+    },
+    "source": {
+      "custom": "Warmage 2024"
+    },
+    "level": 0
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "House of Darts - Trick Shot",
+  "type": "feat",
+  "img": "icons/magic/control/control-influence-crown-blue.webp",
+  "system": {
+    "identifier": "warmage2024.subclass_feature.house_of_darts__trick_shot",
+    "description": {
+      "value": "<p>When you make a ranged attack roll with a Warmage cantrip or thrown weapon, add or subtract 1d4 from the d20 roll after seeing it, to a maximum of 20 or minimum of 1. Raising a roll to 20 this way does not create a critical hit.</p>"
+    },
+    "type": {
+      "value": "class"
+    },
+    "source": {
+      "custom": "Warmage 2024"
+    }
+  }
+}

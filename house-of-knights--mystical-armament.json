@@ -1,0 +1,17 @@
+{
+  "name": "House of Knights - Mystical Armament",
+  "type": "feat",
+  "img": "icons/magic/control/control-influence-crown-blue.webp",
+  "system": {
+    "identifier": "warmage2024.subclass_feature.house_of_knights__mystical_armament",
+    "description": {
+      "value": "<p>Learn Force Buckler and one of Arc Blade, Burning Blade, Frigid Blade, or True Strike. You can manifest a simple or martial melee weapon of magical force as a bonus action, use Intelligence for attack and damage, and treat it as worth 1 gp for material components and as a spellcasting focus.</p>"
+    },
+    "type": {
+      "value": "class"
+    },
+    "source": {
+      "custom": "Warmage 2024"
+    }
+  }
+}

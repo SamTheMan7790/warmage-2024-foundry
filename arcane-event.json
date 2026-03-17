@@ -1,0 +1,17 @@
+{
+  "name": "Arcane Event",
+  "type": "feat",
+  "img": "icons/magic/symbols/star-blue.webp",
+  "system": {
+    "identifier": "warmage2024.initiation.arcane_event",
+    "description": {
+      "value": "<p>You learn Acid Splash and Message and gain proficiency in Insight.</p><p><strong>Cantrips:</strong> Acid Splash, Message<br><strong>Skill:</strong> Insight</p>"
+    },
+    "type": {
+      "value": "class"
+    },
+    "source": {
+      "custom": "Warmage 2024"
+    }
+  }
+}

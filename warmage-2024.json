@@ -1,0 +1,206 @@
+{
+  "name": "Warmage (2024)",
+  "type": "class",
+  "img": "icons/magic/fire/projectile-meteor-salvo-blue.webp",
+  "system": {
+    "identifier": "warmage2024.class.warmage",
+    "levels": 20,
+    "primaryAbility": {
+      "value": [
+        "int"
+      ]
+    },
+    "hd": {
+      "denomination": "d8"
+    },
+    "spellcasting": {
+      "progression": "none",
+      "ability": "int"
+    },
+    "description": {
+      "value": "<p>The 2024 Warmage is a cantrip-focused Intelligence class. This cleaned export keeps class scaling, advancement notes, and namespacing, but leaves broken external UUID links out so you can relink them to your own local compendiums.</p><p><strong>Level 1:</strong> Spellcasting, Arcane Initiation, Warmage Edge<br><strong>Level 2:</strong> Reliable Cantrip, Warmage Tricks<br><strong>Level 3:</strong> Warmage Subclass<br><strong>Level 4:</strong> Ability Score Improvement<br><strong>Level 5:</strong> Arcane Surge<br><strong>Level 6:</strong> Tactical Insight<br><strong>Level 7:</strong> Subclass Feature<br><strong>Level 8:</strong> Ability Score Improvement<br><strong>Level 10:</strong> Subclass Feature<br><strong>Level 11:</strong> Arcane Surge Improvement<br><strong>Level 12:</strong> Ability Score Improvement<br><strong>Level 14:</strong> Strategic Deflection<br><strong>Level 15:</strong> Subclass Feature<br><strong>Level 16:</strong> Ability Score Improvement<br><strong>Level 18:</strong> Subclass Feature<br><strong>Level 19:</strong> Epic Boon<br><strong>Level 20:</strong> Master Warmage</p>"
+    },
+    "advancement": [
+      {
+        "_id": "hp",
+        "type": "HitPoints",
+        "configuration": {},
+        "value": {}
+      },
+      {
+        "_id": "cantripsKnown",
+        "type": "ScaleValue",
+        "title": "Cantrips Known",
+        "configuration": {
+          "identifier": "warmage2024.cantripsKnown",
+          "type": "number",
+          "distance": {
+            "units": ""
+          },
+          "scale": {
+            "1": {
+              "value": 4
+            },
+            "3": {
+              "value": 5
+            },
+            "5": {
+              "value": 6
+            },
+            "9": {
+              "value": 7
+            },
+            "13": {
+              "value": 8
+            },
+            "17": {
+              "value": 9
+            },
+            "20": {
+              "value": 10
+            }
+          }
+        },
+        "value": {}
+      },
+      {
+        "_id": "bonusDice",
+        "type": "ScaleValue",
+        "title": "Cantrip Bonus Dice",
+        "configuration": {
+          "identifier": "warmage2024.cantripBonusDice",
+          "type": "number",
+          "distance": {
+            "units": ""
+          },
+          "scale": {
+            "5": {
+              "value": 1
+            },
+            "11": {
+              "value": 2
+            },
+            "17": {
+              "value": 3
+            },
+            "20": {
+              "value": 4
+            }
+          }
+        },
+        "value": {}
+      },
+      {
+        "_id": "tricksKnown",
+        "type": "ScaleValue",
+        "title": "Tricks Known",
+        "configuration": {
+          "identifier": "warmage2024.tricksKnown",
+          "type": "number",
+          "distance": {
+            "units": ""
+          },
+          "scale": {
+            "2": {
+              "value": 2
+            },
+            "3": {
+              "value": 3
+            },
+            "5": {
+              "value": 4
+            },
+            "7": {
+              "value": 5
+            },
+            "9": {
+              "value": 6
+            },
+            "11": {
+              "value": 7
+            },
+            "13": {
+              "value": 8
+            },
+            "15": {
+              "value": 9
+            },
+            "17": {
+              "value": 10
+            }
+          }
+        },
+        "value": {}
+      },
+      {
+        "_id": "subclassChoice",
+        "type": "ItemChoice",
+        "title": "Warmage Subclass",
+        "level": 3,
+        "configuration": {
+          "choices": {
+            "3": {
+              "count": 1,
+              "replacement": false
+            }
+          },
+          "allowDrops": true,
+          "type": "subclass",
+          "pool": []
+        },
+        "value": {}
+      },
+      {
+        "_id": "asi4",
+        "type": "AbilityScoreImprovement",
+        "title": "Ability Score Improvement",
+        "level": 4,
+        "configuration": {
+          "points": 2,
+          "fixed": {}
+        },
+        "value": {}
+      },
+      {
+        "_id": "asi8",
+        "type": "AbilityScoreImprovement",
+        "title": "Ability Score Improvement",
+        "level": 8,
+        "configuration": {
+          "points": 2,
+          "fixed": {}
+        },
+        "value": {}
+      },
+      {
+        "_id": "asi12",
+        "type": "AbilityScoreImprovement",
+        "title": "Ability Score Improvement",
+        "level": 12,
+        "configuration": {
+          "points": 2,
+          "fixed": {}
+        },
+        "value": {}
+      },
+      {
+        "_id": "asi16",
+        "type": "AbilityScoreImprovement",
+        "title": "Ability Score Improvement",
+        "level": 16,
+        "configuration": {
+          "points": 2,
+          "fixed": {}
+        },
+        "value": {}
+      }
+    ],
+    "source": {
+      "custom": "Complete Warmage (2024)"
+    },
+    "startingEquipment": {
+      "value": []
+    },
+    "properties": []
+  }
+}

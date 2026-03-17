@@ -1,0 +1,17 @@
+{
+  "name": "House of Knights - Knight's Ward",
+  "type": "feat",
+  "img": "icons/magic/control/control-influence-crown-blue.webp",
+  "system": {
+    "identifier": "warmage2024.subclass_feature.house_of_knights__knights_ward",
+    "description": {
+      "value": "<p>As a bonus action, gain temporary hit points equal to twice your Warmage level. Recharge on a short or long rest.</p>"
+    },
+    "type": {
+      "value": "class"
+    },
+    "source": {
+      "custom": "Warmage 2024"
+    }
+  }
+}

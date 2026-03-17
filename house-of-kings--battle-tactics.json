@@ -1,0 +1,17 @@
+{
+  "name": "House of Kings - Battle Tactics",
+  "type": "feat",
+  "img": "icons/magic/control/control-influence-crown-blue.webp",
+  "system": {
+    "identifier": "warmage2024.subclass_feature.house_of_kings__battle_tactics",
+    "description": {
+      "value": "<p>You gain Battle Dice and maneuvers. Battle Dice scale from 2d6 at level 3 to 4d8 at level 19. Maneuvers include Blitz, Check, Flash of Brilliance, Gambit, Morale Boost, and Stalemate.</p>"
+    },
+    "type": {
+      "value": "class"
+    },
+    "source": {
+      "custom": "Warmage 2024"
+    }
+  }
+}

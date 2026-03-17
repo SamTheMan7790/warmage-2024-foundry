@@ -1,0 +1,15 @@
+{
+  "name": "Poison Spray",
+  "type": "spell",
+  "img": "icons/magic/unholy/projectile-fireball-smoke-blue.webp",
+  "system": {
+    "identifier": "warmage2024.spell.poison_spray",
+    "description": {
+      "value": "<p>Starter reference spell entry for Poison Spray. Replace with your final imported spell content if you want full automation.</p>"
+    },
+    "source": {
+      "custom": "Warmage 2024"
+    },
+    "level": 0
+  }
+}

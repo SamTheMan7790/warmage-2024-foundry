@@ -1,0 +1,17 @@
+{
+  "name": "House of Knights - Tactical Maneuver",
+  "type": "feat",
+  "img": "icons/magic/control/control-influence-crown-blue.webp",
+  "system": {
+    "identifier": "warmage2024.subclass_feature.house_of_knights__tactical_maneuver",
+    "description": {
+      "value": "<p>Spend up to 30 feet of movement to teleport a number of feet equal to half the movement spent.</p>"
+    },
+    "type": {
+      "value": "class"
+    },
+    "source": {
+      "custom": "Warmage 2024"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Mercenary",
+  "type": "feat",
+  "img": "icons/magic/symbols/star-blue.webp",
+  "system": {
+    "identifier": "warmage2024.initiation.mercenary",
+    "description": {
+      "value": "<p>You learn Mending and True Strike and gain proficiency in Athletics.</p><p><strong>Cantrips:</strong> Mending, True Strike<br><strong>Skill:</strong> Athletics</p>"
+    },
+    "type": {
+      "value": "class"
+    },
+    "source": {
+      "custom": "Warmage 2024"
+    }
+  }
+}

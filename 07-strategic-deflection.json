@@ -1,0 +1,17 @@
+{
+  "name": "Strategic Deflection",
+  "type": "feat",
+  "img": "icons/magic/control/debuff-energy-snare-blue.webp",
+  "system": {
+    "identifier": "warmage2024.feature.strategic_deflection",
+    "description": {
+      "value": "<p>When you succeed on a saving throw against a damaging spell, you can use your reaction to redirect that energy to another valid creature within range or within 30 feet, forcing a save against your spell save DC. Short or long rest recharge.</p>"
+    },
+    "type": {
+      "value": "class"
+    },
+    "source": {
+      "custom": "Warmage 2024"
+    }
+  }
+}

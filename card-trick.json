@@ -1,0 +1,15 @@
+{
+  "name": "Card Trick",
+  "type": "spell",
+  "img": "icons/magic/unholy/projectile-fireball-smoke-blue.webp",
+  "system": {
+    "identifier": "warmage2024.spell.card_trick",
+    "description": {
+      "value": "<p>Starter reference spell entry for Card Trick. Replace with your final imported spell content if you want full automation.</p>"
+    },
+    "source": {
+      "custom": "Warmage 2024"
+    },
+    "level": 0
+  }
+}

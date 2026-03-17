@@ -1,0 +1,17 @@
+{
+  "name": "House of Pawns - Promotion",
+  "type": "feat",
+  "img": "icons/magic/control/control-influence-crown-blue.webp",
+  "system": {
+    "identifier": "warmage2024.subclass_feature.house_of_pawns__promotion",
+    "description": {
+      "value": "<p>At the end of a long rest, choose Adaptive Magic or Martial Training until you choose again.</p>"
+    },
+    "type": {
+      "value": "class"
+    },
+    "source": {
+      "custom": "Warmage 2024"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Circus Performer",
+  "type": "feat",
+  "img": "icons/magic/symbols/star-blue.webp",
+  "system": {
+    "identifier": "warmage2024.initiation.circus_performer",
+    "description": {
+      "value": "<p>You learn Minor Illusion and Starry Wisp and gain proficiency in Acrobatics.</p><p><strong>Cantrips:</strong> Minor Illusion, Starry Wisp<br><strong>Skill:</strong> Acrobatics</p>"
+    },
+    "type": {
+      "value": "class"
+    },
+    "source": {
+      "custom": "Warmage 2024"
+    }
+  }
+}

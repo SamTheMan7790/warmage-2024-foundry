@@ -1,0 +1,17 @@
+{
+  "name": "House of Knights - Field of Blades",
+  "type": "feat",
+  "img": "icons/magic/control/control-influence-crown-blue.webp",
+  "system": {
+    "identifier": "warmage2024.subclass_feature.house_of_knights__field_of_blades",
+    "description": {
+      "value": "<p>As a magic action, make a melee spell attack against up to five creatures you can see within 30 feet. On a hit, a target takes 2d10 + Intelligence modifier force damage.</p>"
+    },
+    "type": {
+      "value": "class"
+    },
+    "source": {
+      "custom": "Warmage 2024"
+    }
+  }
+}

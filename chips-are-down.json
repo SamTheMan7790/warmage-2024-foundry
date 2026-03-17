@@ -1,0 +1,17 @@
+{
+  "name": "Chips are Down",
+  "type": "feat",
+  "img": "icons/magic/symbols/question-stone-yellow.webp",
+  "system": {
+    "identifier": "warmage2024.trick.chips_are_down",
+    "description": {
+      "value": "<p>Starter reference entry for Chips are Down. Replace with your final rules text or imported compendium content.</p>"
+    },
+    "type": {
+      "value": "class"
+    },
+    "source": {
+      "custom": "Warmage 2024"
+    }
+  }
+}

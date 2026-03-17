@@ -1,0 +1,17 @@
+{
+  "name": "Infinite Variation",
+  "type": "feat",
+  "img": "icons/magic/symbols/question-stone-yellow.webp",
+  "system": {
+    "identifier": "warmage2024.trick.infinite_variation",
+    "description": {
+      "value": "<p>Starter reference entry for Infinite Variation. Replace with your final rules text or imported compendium content.</p>"
+    },
+    "type": {
+      "value": "class"
+    },
+    "source": {
+      "custom": "Warmage 2024"
+    }
+  }
+}

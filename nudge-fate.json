@@ -1,0 +1,17 @@
+{
+  "name": "Nudge Fate",
+  "type": "feat",
+  "img": "icons/magic/symbols/question-stone-yellow.webp",
+  "system": {
+    "identifier": "warmage2024.trick.nudge_fate",
+    "description": {
+      "value": "<p>Starter reference entry for Nudge Fate. Replace with your final rules text or imported compendium content.</p>"
+    },
+    "type": {
+      "value": "class"
+    },
+    "source": {
+      "custom": "Warmage 2024"
+    }
+  }
+}

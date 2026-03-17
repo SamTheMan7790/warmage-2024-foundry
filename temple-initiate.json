@@ -1,0 +1,17 @@
+{
+  "name": "Temple Initiate",
+  "type": "feat",
+  "img": "icons/magic/symbols/star-blue.webp",
+  "system": {
+    "identifier": "warmage2024.initiation.temple_initiate",
+    "description": {
+      "value": "<p>You learn Sacred Flame and Spare the Dying and gain proficiency in Religion.</p><p><strong>Cantrips:</strong> Sacred Flame, Spare the Dying<br><strong>Skill:</strong> Religion</p>"
+    },
+    "type": {
+      "value": "class"
+    },
+    "source": {
+      "custom": "Warmage 2024"
+    }
+  }
+}

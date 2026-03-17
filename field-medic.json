@@ -1,0 +1,17 @@
+{
+  "name": "Field Medic",
+  "type": "feat",
+  "img": "icons/magic/symbols/question-stone-yellow.webp",
+  "system": {
+    "identifier": "warmage2024.trick.field_medic",
+    "description": {
+      "value": "<p>Starter reference entry for Field Medic. Replace with your final rules text or imported compendium content.</p>"
+    },
+    "type": {
+      "value": "class"
+    },
+    "source": {
+      "custom": "Warmage 2024"
+    }
+  }
+}

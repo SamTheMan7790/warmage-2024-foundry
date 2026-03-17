@@ -1,0 +1,17 @@
+{
+  "name": "House of Lancers - Hand-to-Hand Arcana",
+  "type": "feat",
+  "img": "icons/magic/control/control-influence-crown-blue.webp",
+  "system": {
+    "identifier": "warmage2024.subclass_feature.house_of_lancers__hand_to_hand_arcana",
+    "description": {
+      "value": "<p>You gain a bonus-action unarmed strike, improved unarmed damage scaling, and use Intelligence for unarmed strike attacks, damage, grapples, and shoves. Your unarmed strike counts as a melee weapon worth 1 gp for material components.</p>"
+    },
+    "type": {
+      "value": "class"
+    },
+    "source": {
+      "custom": "Warmage 2024"
+    }
+  }
+}

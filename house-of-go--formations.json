@@ -1,0 +1,17 @@
+{
+  "name": "House of Go - Formations",
+  "type": "feat",
+  "img": "icons/magic/control/control-influence-crown-blue.webp",
+  "system": {
+    "identifier": "warmage2024.subclass_feature.house_of_go__formations",
+    "description": {
+      "value": "<p>You can activate special formations as a bonus action while positional requirements are met. Published formations include Flank, Solo, and Wall.</p>"
+    },
+    "type": {
+      "value": "class"
+    },
+    "source": {
+      "custom": "Warmage 2024"
+    }
+  }
+}

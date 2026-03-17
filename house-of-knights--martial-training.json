@@ -1,0 +1,17 @@
+{
+  "name": "House of Knights - Martial Training",
+  "type": "feat",
+  "img": "icons/magic/control/control-influence-crown-blue.webp",
+  "system": {
+    "identifier": "warmage2024.subclass_feature.house_of_knights__martial_training",
+    "description": {
+      "value": "<p>Gain proficiency with martial weapons and training with medium armor, heavy armor, and shields. Ignore the Strength requirement for heavy armor and Heavy-property weapons.</p>"
+    },
+    "type": {
+      "value": "class"
+    },
+    "source": {
+      "custom": "Warmage 2024"
+    }
+  }
+}

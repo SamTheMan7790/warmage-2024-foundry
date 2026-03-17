@@ -1,0 +1,17 @@
+{
+  "name": "Mystical Vision",
+  "type": "feat",
+  "img": "icons/magic/symbols/question-stone-yellow.webp",
+  "system": {
+    "identifier": "warmage2024.trick.mystical_vision",
+    "description": {
+      "value": "<p>Starter reference entry for Mystical Vision. Replace with your final rules text or imported compendium content.</p>"
+    },
+    "type": {
+      "value": "class"
+    },
+    "source": {
+      "custom": "Warmage 2024"
+    }
+  }
+}

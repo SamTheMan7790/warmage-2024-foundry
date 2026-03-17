@@ -1,0 +1,17 @@
+{
+  "name": "House of Rooks - Covert Magic",
+  "type": "feat",
+  "img": "icons/magic/control/control-influence-crown-blue.webp",
+  "system": {
+    "identifier": "warmage2024.subclass_feature.house_of_rooks__covert_magic",
+    "description": {
+      "value": "<p>You can cast Feather Fall, Invisibility, Knock (silently), Silence, and Spider Climb without a spell slot or verbal components, each once per long rest, and may refresh them by expending Arcane Surge.</p>"
+    },
+    "type": {
+      "value": "class"
+    },
+    "source": {
+      "custom": "Warmage 2024"
+    }
+  }
+}

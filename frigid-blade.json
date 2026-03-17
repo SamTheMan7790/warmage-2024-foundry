@@ -1,0 +1,15 @@
+{
+  "name": "Frigid Blade",
+  "type": "spell",
+  "img": "icons/magic/unholy/projectile-fireball-smoke-blue.webp",
+  "system": {
+    "identifier": "warmage2024.spell.frigid_blade",
+    "description": {
+      "value": "<p>Starter reference spell entry for Frigid Blade. Replace with your final imported spell content if you want full automation.</p>"
+    },
+    "source": {
+      "custom": "Warmage 2024"
+    },
+    "level": 0
+  }
+}
