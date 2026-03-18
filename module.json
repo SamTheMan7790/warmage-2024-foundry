@@ -1,5 +1,6 @@
 {
   "id": "warmage2024-starter",
+  "type": "module",
   "title": "Warmage 2024 Starter",
   "description": "Source pack starter for a 2024 Warmage implementation for Foundry VTT dnd5e.",
   "version": "0.1.0",
