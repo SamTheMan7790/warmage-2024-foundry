@@ -3,7 +3,7 @@
   "type": "module",
   "title": "Warmage 2024 Starter",
   "description": "Source pack starter for a 2024 Warmage implementation for Foundry VTT dnd5e.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "compatibility": {
     "minimum": "13",
     "verified": "13.351"
